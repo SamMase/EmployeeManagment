@@ -1,2 +1,2 @@
 # EmployeeManagment
-This is a Employee Managment Java Project.
+This is my Employee Managment Java Project.
