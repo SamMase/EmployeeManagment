@@ -3,7 +3,7 @@ public class EmployeeTest {
 	public static void main(String[] args) {
 
 		Employee firstEmployee = EmployeeFactory.create("Pulkit", "Shukla", 900000.0);
-		Developer firstDeveloper = EmployeeFactory.create("Madhur", "Bhatnagar", 800000.0, "Mota");
+		Developer firstDeveloper = EmployeeFactory.create("Madhur", "Bhatnagar", 800000.0, "Mota Madhur");
 		SalesPerson firstSalesPerson = EmployeeFactory.create("Shubham", "Verma", 700000.0, 88);
 
 		showEmployee(firstEmployee);
